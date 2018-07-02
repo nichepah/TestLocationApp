@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">MyLocationApp</string>
+    <string name="latitude">Latitude</string>
+    <string name="longitude">Longitude</string>
+    <string name="location_provider">Provider</string>
+    <string name="accuracy">Accuracy</string>
+    <string name="ammu">Hello my dear Ammu</string>
+</resources>
